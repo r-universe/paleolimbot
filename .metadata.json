@@ -1,0 +1,21 @@
+[
+  {
+    "package": "libproj"
+  },
+  {
+    "package": "libgeos",
+    "oncran": true
+  },
+  {
+    "package": "geos",
+    "oncran": true
+  },
+  {
+    "package": "s2",
+    "oncran": true
+  },
+  {
+    "package": "wk",
+    "oncran": true
+  }
+]
