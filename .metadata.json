@@ -17,5 +17,11 @@
   {
     "package": "wk",
     "oncran": true
+  },
+  {
+    "package": "rlibproj"
+  },
+  {
+    "package": "crs2crs"
   }
 ]
