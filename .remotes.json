@@ -1,0 +1,14 @@
+[
+  {
+    "package": "crs2crs",
+    "url": "https://github.com/paleolimbot/crs2crs",
+    "via": ["rlibproj"],
+    "from": "rlibproj"
+  },
+  {
+    "package": "libproj",
+    "url": "https://github.com/paleolimbot/libproj",
+    "via": ["rlibproj"],
+    "from": "rlibproj"
+  }
+]
