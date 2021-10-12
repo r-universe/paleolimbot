@@ -28,11 +28,6 @@
 	url = https://github.com/paleolimbot/wk
 	shallow = true
 	registered = true
-[submodule "rlibproj"]
-	path = rlibproj
-	url = https://github.com/paleolimbot/rlibproj
-	shallow = true
-	registered = true
 [submodule "crs2crs"]
 	path = crs2crs
 	url = https://github.com/paleolimbot/crs2crs
