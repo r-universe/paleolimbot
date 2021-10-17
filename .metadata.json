@@ -1,7 +1,6 @@
 [
   {
-    "package": "libproj",
-    "oncran": true
+    "package": "libproj"
   },
   {
     "package": "libgeos",
