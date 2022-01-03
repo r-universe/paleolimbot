@@ -19,7 +19,7 @@
     "oncran": true
   },
   {
-    "package": "rlibproj"
+    "package": "rproj"
   },
   {
     "package": "crs2crs"
