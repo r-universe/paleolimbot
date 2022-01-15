@@ -14,12 +14,6 @@
   {
     "package": "wk",
     "url": "https://github.com/paleolimbot/wk",
-    "via": ["rproj", "crs2crs"],
-    "from": "rproj"
-  },
-  {
-    "package": "wk",
-    "url": "https://github.com/paleolimbot/wk",
     "via": ["rproj"],
     "from": "rproj"
   }
