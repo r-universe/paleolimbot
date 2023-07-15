@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/paleolimbot/universe
-	shallow = true
 	branch = HEAD
 [submodule "libproj"]
 	path = libproj
 	url = https://github.com/paleolimbot/libproj
-	shallow = true
-	registered = true
 [submodule "libgeos"]
 	path = libgeos
 	url = https://github.com/paleolimbot/libgeos
-	shallow = true
-	registered = true
 [submodule "geos"]
 	path = geos
 	url = https://github.com/paleolimbot/geos
-	shallow = true
-	registered = true
 [submodule "s2"]
 	path = s2
 	url = https://github.com/r-spatial/s2
-	shallow = true
-	registered = true
 [submodule "wk"]
 	path = wk
 	url = https://github.com/paleolimbot/wk
-	shallow = true
-	registered = true
 [submodule "rproj"]
 	path = rproj
 	url = https://github.com/paleolimbot/rproj
-	shallow = true
-	registered = true
 [submodule "crs2crs"]
 	path = crs2crs
 	url = https://github.com/paleolimbot/crs2crs
-	shallow = true
-	registered = true
