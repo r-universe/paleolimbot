@@ -2,24 +2,24 @@
 	path = .registry
 	url = https://github.com/paleolimbot/universe
 	branch = HEAD
-[submodule "libproj"]
-	path = libproj
-	url = https://github.com/paleolimbot/libproj
-[submodule "libgeos"]
-	path = libgeos
-	url = https://github.com/paleolimbot/libgeos
+[submodule "crs2crs"]
+	path = crs2crs
+	url = https://github.com/paleolimbot/crs2crs
 [submodule "geos"]
 	path = geos
 	url = https://github.com/paleolimbot/geos
+[submodule "libgeos"]
+	path = libgeos
+	url = https://github.com/paleolimbot/libgeos
+[submodule "libproj"]
+	path = libproj
+	url = https://github.com/paleolimbot/libproj
+[submodule "rproj"]
+	path = rproj
+	url = https://github.com/paleolimbot/rproj
 [submodule "s2"]
 	path = s2
 	url = https://github.com/r-spatial/s2
 [submodule "wk"]
 	path = wk
 	url = https://github.com/paleolimbot/wk
-[submodule "rproj"]
-	path = rproj
-	url = https://github.com/paleolimbot/rproj
-[submodule "crs2crs"]
-	path = crs2crs
-	url = https://github.com/paleolimbot/crs2crs
