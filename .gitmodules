@@ -1,25 +1,42 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/paleolimbot/paleolimbot.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "crs2crs"]
 	path = crs2crs
 	url = https://github.com/paleolimbot/crs2crs
+	registered = false
+[submodule "edwards97"]
+	path = edwards97
+	url = https://github.com/paleolimbot/edwards97
+[submodule "exifr"]
+	path = exifr
+	url = https://github.com/paleolimbot/exifr
 [submodule "geos"]
 	path = geos
 	url = https://github.com/paleolimbot/geos
+[submodule "ggspatial"]
+	path = ggspatial
+	url = https://github.com/paleolimbot/ggspatial
 [submodule "libgeos"]
 	path = libgeos
 	url = https://github.com/paleolimbot/libgeos
 [submodule "libproj"]
 	path = libproj
 	url = https://github.com/paleolimbot/libproj
-[submodule "rproj"]
-	path = rproj
-	url = https://github.com/paleolimbot/rproj
-[submodule "s2"]
-	path = s2
-	url = https://github.com/r-spatial/s2
+	registered = false
+[submodule "prettymapr"]
+	path = prettymapr
+	url = https://github.com/paleolimbot/prettymapr
+[submodule "rosm"]
+	path = rosm
+	url = https://github.com/paleolimbot/rosm
+[submodule "tidypaleo"]
+	path = tidypaleo
+	url = https://github.com/paleolimbot/tidypaleo
 [submodule "wk"]
 	path = wk
 	url = https://github.com/paleolimbot/wk
+[submodule "wkutils"]
+	path = wkutils
+	url = https://github.com/paleolimbot/wkutils
