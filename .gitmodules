@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "crs2crs"]
-	path = crs2crs
-	url = https://github.com/paleolimbot/crs2crs
-	registered = false
 [submodule "edwards97"]
 	path = edwards97
 	url = https://github.com/paleolimbot/edwards97
@@ -21,10 +17,6 @@
 [submodule "libgeos"]
 	path = libgeos
 	url = https://github.com/paleolimbot/libgeos
-[submodule "libproj"]
-	path = libproj
-	url = https://github.com/paleolimbot/libproj
-	registered = false
 [submodule "prettymapr"]
 	path = prettymapr
 	url = https://github.com/paleolimbot/prettymapr
