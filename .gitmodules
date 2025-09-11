@@ -29,6 +29,3 @@
 [submodule "wk"]
 	path = wk
 	url = https://github.com/paleolimbot/wk
-[submodule "wkutils"]
-	path = wkutils
-	url = https://github.com/paleolimbot/wkutils
