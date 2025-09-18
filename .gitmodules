@@ -1,31 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/paleolimbot/paleolimbot.r-universe.dev
 	branch = HEAD
-[submodule "edwards97"]
-	path = edwards97
-	url = https://github.com/paleolimbot/edwards97
-[submodule "exifr"]
-	path = exifr
-	url = https://github.com/paleolimbot/exifr
-[submodule "geos"]
-	path = geos
-	url = https://github.com/paleolimbot/geos
-[submodule "ggspatial"]
-	path = ggspatial
-	url = https://github.com/paleolimbot/ggspatial
-[submodule "libgeos"]
-	path = libgeos
-	url = https://github.com/paleolimbot/libgeos
-[submodule "prettymapr"]
-	path = prettymapr
-	url = https://github.com/paleolimbot/prettymapr
-[submodule "rosm"]
-	path = rosm
-	url = https://github.com/paleolimbot/rosm
-[submodule "tidypaleo"]
-	path = tidypaleo
-	url = https://github.com/paleolimbot/tidypaleo
-[submodule "wk"]
-	path = wk
-	url = https://github.com/paleolimbot/wk
+[submodule "geoarrow"]
+	path = geoarrow
+	url = https://github.com/geoarrow/geoarrow-r
+[submodule "nanoarrow"]
+	path = nanoarrow
+	url = https://github.com/apache/nanoarrow
+	subdir = r
+[submodule "sedonadb"]
+	path = sedonadb
+	url = https://github.com/apache/sedona-db
+	subdir = r/sedonadb
