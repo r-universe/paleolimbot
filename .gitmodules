@@ -2,13 +2,6 @@
 	path = .registry
 	url = https://github.com/paleolimbot/paleolimbot.r-universe.dev
 	branch = HEAD
-[submodule "geoarrow"]
-	path = geoarrow
-	url = https://github.com/geoarrow/geoarrow-r
-[submodule "nanoarrow"]
-	path = nanoarrow
-	url = https://github.com/apache/nanoarrow
-	subdir = r
 [submodule "sedonadb"]
 	path = sedonadb
 	url = https://github.com/apache/sedona-db
